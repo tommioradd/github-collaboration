@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello this is the revised file 
 modified!
+=======
+revised again
+>>>>>>> 9507425b0ac4ae494e3e855ba0018ccb69035d7d
